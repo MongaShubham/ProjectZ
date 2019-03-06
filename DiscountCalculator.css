@@ -1,0 +1,47 @@
+body {
+	text-align: center;
+	border-style: outset;
+	border-width: 7px ;
+	box-shadow: 3px 3px 3px 3px;
+	margin-top: 50px;
+	margin-right: 600px;
+	margin-left: 600px;
+	padding-top: 15px;
+	padding-bottom: 20px;
+}
+
+h1 {
+	background-color: yellow;
+	color: red;
+	
+}
+
+input[type=text] {
+	font-family: "Arial";
+	border-style: solid;
+	border-radius: 7px;
+	border-width: 2px 2px;
+	padding: 5px;
+	margin-top: 5px;	
+	margin-left: 100px;
+	
+}
+
+ label{
+	 position: absolute;
+	 padding: 12px;
+	 text-align: right;
+ }
+ 
+
+input[type=button] {
+	padding: 5px;
+	margin-top: 10px;
+	border-radius: 5px;
+}
+
+input[type=reset] {
+	padding: 5px;
+	margin-top: 10px;
+	border-radius: 5px;
+}
